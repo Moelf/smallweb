@@ -4938,6 +4938,7 @@ https://blog.jimmac.eu/feed.xml
 https://blog.jimstroud.com/feed
 https://blog.jitpomi.com/rss.xml
 https://blog.jldc.me/feed.xml
+https://blog.jling.dev/rss.xml
 https://blog.jlpouffier.fr/rss
 https://blog.jmfd.me/feed
 https://blog.jmp.chat/atom.xml
